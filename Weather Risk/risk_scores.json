@@ -1,0 +1,18 @@
+{
+    "Black cutworm": {
+        "score": 1,
+        "proposal": "High precipitation: BLOCK FOLIAR LIQUID SPRAY"
+    },
+    "Corn earworm": {
+        "score": 4,
+        "proposal": "High precipitation: BLOCK FOLIAR LIQUID SPRAY"
+    },
+    "Potato leafhopper": {
+        "score": 1,
+        "proposal": "High precipitation: BLOCK FOLIAR LIQUID SPRAY"
+    },
+    "Soybean aphid": {
+        "score": 3,
+        "proposal": "High precipitation: BLOCK FOLIAR LIQUID SPRAY"
+    }
+}
