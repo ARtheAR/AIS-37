@@ -1,7 +1,4 @@
-# AIS-37 
-AIS-37 : Early Crop Disease &amp; Pest Outbreak Prediction. UN SDGs: SDG 2, SDG 12, SDG 13, SDG 15  
-
-# PS-2A: Early Crop Disease & Pest Outbreak Prediction
+# AIS-37: Early Crop Disease & Pest Outbreak Prediction
  
 **Track:** Track 2 — Smart Agriculture
 **Status:** Placeholder — build in progress
